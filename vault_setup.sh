@@ -1,5 +1,5 @@
 #!/bin/bash
-mkdir -p ~/secure_vault
+mkdir ~/secure_vault
 echo "Welcome to keys.txt - Encryption keys stored here." > ~/secure_vault/keys.txt
 echo "Welcome to secrets.txt - Confidential data stored here." > ~/secure_vault/secrets.txt
 echo "Welcome to logs.txt - System logs stored here." > ~/secure_vault/logs.txt

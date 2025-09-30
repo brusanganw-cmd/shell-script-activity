@@ -1,6 +1,6 @@
 #!/bin/bash 
 
-VAULT_DIR="$HOME/secure_vault"
+VAULT_DIR="~/secure_vault.sh"
 REPORT_FILE="$VAULT_DIR/vault_report.txt"
 
 if [ ! -d "$VAULT_DIR" ]; then
